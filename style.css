@@ -19,6 +19,7 @@ body {
     background-color: white;
     border-radius: 15px;
     text-align: center;
+    box-shadow: 5px 5px 5px lightsteelblue;
 }
 
 .Qr-card h2 {
@@ -40,4 +41,9 @@ body {
     font-size: 11px;
     text-align: center;
     color: hsl(228, 45%, 44%);
+}
+@media (max-width:375px){
+.Qr-card{
+    width: 300px;
+}
 }
