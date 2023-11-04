@@ -11,28 +11,27 @@ body {
     align-items: center;
 }
 
-.container {
-    margin-top: 60px;
+.Qr-card {
+    margin-top: 80px;
     margin-bottom: 40px;
-    width: 290px;
+    width: 300px;
     height: 70vh;
     background-color: white;
     border-radius: 15px;
     text-align: center;
 }
 
-.container h2 {
+.Qr-card h2 {
     color: hsl(218, 44%, 22%);
 }
 
-.container img {
+.Qr-card img {
     margin: 10px 0;
     width: 270px;
     height: 42vh;
     border-radius: 10px;
 }
-
-.container p {
+.Qr-card p {
     font-size: 15px;
     color:hsl(220, 15%, 55%)
 }
